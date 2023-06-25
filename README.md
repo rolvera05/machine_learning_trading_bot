@@ -68,7 +68,6 @@ Then, initiate JupyterLab by entering:
 
 ___
 
-## Report
 
 # Report: Exploration and Evaluation of Machine Learning Models for Algorithmic Trading
 
